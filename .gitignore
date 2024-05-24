@@ -1,3 +1,9 @@
+# api keys
+alpaca_keys.txt
+
+# Databse File
+alpaca_data.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
