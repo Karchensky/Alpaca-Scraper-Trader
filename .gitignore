@@ -4,6 +4,9 @@ alpaca_keys.txt
 # Databse File
 alpaca_data.db
 
+#file explorer
+Data_Explorer.xlsx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
