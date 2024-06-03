@@ -7,6 +7,9 @@ alpaca_data.db
 #file explorer
 Data_Explorer.xlsx
 
+#models
+*.pkl
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
