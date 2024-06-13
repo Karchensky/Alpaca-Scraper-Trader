@@ -9,6 +9,8 @@ Data_Explorer.xlsx
 
 #models
 *.pkl
+*.h5
+*.keras
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
